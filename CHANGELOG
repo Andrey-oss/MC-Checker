@@ -1,0 +1,13 @@
+v1.0-beta (22/08/2021):
+
+* Project started
+* Added Internet checker
+* Added Server IP checker
+* Added Server Hostname checker
+* Added Server Port checker
+* Added Server's MOTD checker
+* Added Online Server's Players checker
+* Added Max Server's Players checker
+* Added Server Versions checker
+* Added Server Online or Not checker
+* Added Server Valid or Not checker
