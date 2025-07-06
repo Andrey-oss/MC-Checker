@@ -1,4 +1,9 @@
-logo = '<--------MC-CHECKER-------->'
+'''Logo'''
+
+LOGO = '<--------MC-CHECKER-------->'
+
 def print_logo():
-    print (logo)
+    '''Print logo'''
+
+    print (LOGO)
     print ("")

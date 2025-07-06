@@ -11,3 +11,11 @@ v1.0-beta (22/08/2021):
 * Added Server Versions checker
 * Added Server Online or Not checker
 * Added Server Valid or Not checker
+
+v1.1 (07/06/2025)
+
+* Refactored huge part of code
+* Added bedrock server support
+* Added docker/venv support
+* Replaced all dependencies into the requirements.txt file
+* Added README.md/LICENSE
